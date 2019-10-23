@@ -1,3 +1,4 @@
+# Serializer to present important elements which users want to know
 from rest_framework import serializers
 from .models import Course
 
