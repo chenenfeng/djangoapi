@@ -2,4 +2,4 @@
 
 in git bash: python manage.py runserver
 
-then type localhost:8000/admin to log in your admin backend
+then type in the url area: localhost:8000/admin    to log in your admin backend
